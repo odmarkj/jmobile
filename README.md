@@ -11,10 +11,9 @@ In addition to core jQuery functionality, jMobile implements [geolocation throug
 
 Methods marked with * are only partially implemented.
 
-  - [$(selector)](http://api.jquery.com/jQuery/) 
-	- $(selector, context), $(element), $(array)
+	- $.select(selector, context), $.select(element), $.select(array)
 
-### Methods operating on a `$(selector)`
+### Methods operating on a `$.select(selector)`
   
   - add
   - each
@@ -67,6 +66,10 @@ Methods marked with * are only partially implemented.
   - serializeArray
 
 ### static methods off $
+
+  - detect
+
+### static methods off $.select
   
   - $$ - querySelectorAll or query engine shim
   - $.each 
