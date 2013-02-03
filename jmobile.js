@@ -1,3 +1,12 @@
+/*
+ * jMobile JavaScript Library v1
+ * http://getjmobile.com
+ *
+ * Copyright 2012, 2013 Joshua Odmark and other contributors
+ * Released under the MIT license
+ *
+ * Date: 2013-2-2
+ */
 window['$'] = window['jMobile'] = {
 	watch_id: '',
 	geolocationFailFast: true,

@@ -118,6 +118,6 @@ Areas of interest are bug testing this library on mobile devices and integrating
 
 ## Core
 
-This library is based of of [jquip](http://github.com/mythz/jquip), which is based off of [jQuery](http://github.com/jquery/jquery).
+This library is based off of [jquip](http://github.com/mythz/jquip), which is based off of [jQuery](http://github.com/jquery/jquery).
 
 The main differentiation is converting the main variable into an object so that it may be extended with core functionality, for example, HTML5's geolocation.
